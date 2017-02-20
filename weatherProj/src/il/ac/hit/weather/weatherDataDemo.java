@@ -30,7 +30,7 @@ public class weatherDataDemo {
 	private JButton btnNewButton_1;
 	private JButton btnCleanCity;
 	private JButton btnCleanCityId;
-//try 123456
+//try 12345667
 	/**
 	 * Launch the application.
 	 */
